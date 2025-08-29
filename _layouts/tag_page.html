@@ -61,9 +61,11 @@ layout: default
   </div>
 </div>
 
-{%- comment -%}
-Replaced unsupported "{% bookshop ... %}" with "{% bookshop_include newsletter ... %}"
-{%- endcomment -%}
+{%
+  comment
+  Replaced unsupported "{% bookshop ... %}" with "{% bookshop_include newsletter ... %}"
+  endcomment
+%}
 {% bookshop_include newsletter
   newsletter_title=site.data.newsletter.newsletter_title
   newsletter_description=site.data.newsletter.newsletter_description
