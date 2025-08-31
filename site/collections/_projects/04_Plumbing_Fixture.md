@@ -1,6 +1,6 @@
 ---
 date: 2025-08-31
-title: Plumbing Elements
+title: Plumbing Fixture
 subtitle: 3D Models
 image: '/images/Gozney_Dome.jpg'
 ---
