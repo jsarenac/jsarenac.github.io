@@ -8,7 +8,7 @@ footer_menu__settings:
       url: '/elements/'
     - title: 'About'
       url: '/about/'
-    - title: 'Blog'
+    - title: 'News'
       url: '/blog/'
 
 copyright_text_html: >-
