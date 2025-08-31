@@ -6,7 +6,7 @@ menu__settings:
       url: '/'
     - title: 'Projects'
       url: '/projects/'
-    - title: 'Blog'
+    - title: 'News'
       url: '/blog/'
     - title: 'Pages'
       submenu:
