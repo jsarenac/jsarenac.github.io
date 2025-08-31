@@ -1,11 +1,11 @@
 ---
 date: 2025-08-31
-title: Plumbing Fixture
+title: Plumbing Fixtures
 subtitle: 3D Models
 image: '/images/Gozney_Dome.jpg'
 ---
 
-3D  models of different home appliances for use by clients in interior design renders. 
+3D  models of plumbing fixtures for interior design visuals.
 
 ![Oven](/images/CookerOven.jpg){: width="1200" height="900"}
 
