@@ -1,5 +1,5 @@
 ---
-name: Stais3D
+name: Stasis3D
 position: 3D visualisation studio
 image: 'images/client-3.jpg'
 link: https://stasis3d.com
