@@ -2,7 +2,7 @@
 date: 2025-09-02
 title: Antique Models
 subtitle: 3D Models
-image: '/images/Antique_Syrian_Wedding_ Dressers.jpg.jpg'
+image: '/images/Antique_Syrian_Wedding_ Dressers.jpg'
 ---
 
 3D models and custom materials created from photos.  
