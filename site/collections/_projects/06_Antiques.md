@@ -14,3 +14,5 @@ The details of the original objects presented a particular challenge for the tex
 ![Mirror](/images/Antique_Mirror_1.jpg){: width="1200" height="900"}
 
 ![Table](/images/Antique_Foyer Table_3.jpg){: width="1200" height="900"}
+
+![Indian Chair](/images/IndianEbonyBone_chair.jpg){: width="1200" height="900"}
