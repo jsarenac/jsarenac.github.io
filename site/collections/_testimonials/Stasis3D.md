@@ -3,5 +3,5 @@ name: Stasis3D
 position: 3D visualisation studio
 image: 'images/client-3.jpg'
 link: https://stasis3d.com
-blurb: Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis studiis semper.
+blurb: <em>We've been working with Jovan for several years now and his support has been invaluable to our studio. He has completed the most demanding 3D modeling tasks for us, always delivering flawless 3D models, with extreme attention to detail and with respect to our frequently insane timelines</em> <br><b>Dimitris Stasis, founder Stasis3D, Athens.</b><br/>
 ---
