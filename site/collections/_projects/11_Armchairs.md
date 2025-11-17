@@ -5,7 +5,7 @@ subtitle: 3D Models
 image: '/images/Armchair_Cover.jpg'
 ---
 
-Armchairs in varrious styles created for interior renders. 
+Armchairs in various styles created for interior renders. 
 ![TB Table](/images/Armchairs_1.jpg){: width="1200" height="900"}
 
 ![Art Side Tables](/images/Armchairs_2.jpg){: width="1200" height="900"}
