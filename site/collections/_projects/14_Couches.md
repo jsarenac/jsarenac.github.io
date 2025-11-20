@@ -2,7 +2,7 @@
 date: 2025-11-20
 title: Couches
 subtitle: Models
-image: '/images/Couch_New_4.jpg.jpg'
+image: '/images/Couch_New_4.jpg'
 ---
 
 A variety of couch models created for interior design visualisation.
