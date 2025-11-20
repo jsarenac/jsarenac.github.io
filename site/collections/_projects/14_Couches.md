@@ -2,12 +2,12 @@
 date: 2025-11-20
 title: Couches
 subtitle: Models
-image: '/images/Custom_Kitrin_Sofa_2.jpg'
+image: '/images/Couch_New_4.jpg.jpg'
 ---
 
 A variety of couch models created for interior design visualisation.
 
-![Front View](/images/Couch_New_4.jpg){: width="1200" height="900"}
+![Front View](/images/Custom_Kitrin_Sofa_2.jpg){: width="1200" height="900"}
 
 ![Front Open](/images/Bedroom_Sofa_1.jpg){: width="1200" height="900"}
 
