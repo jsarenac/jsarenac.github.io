@@ -2,7 +2,7 @@
 date: 2025-11-20
 title: Benches
 subtitle: Models
-image: '/images/Nova Bench.jpg.jpg'
+image: '/images/Nova Bench.jpg'
 ---
 
 A variety of bench models created for interior design visualisation.
