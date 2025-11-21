@@ -16,3 +16,11 @@ The details of the original objects presented a particular challenge for the tex
 ![Table](/images/Antique_Foyer Table_3.jpg){: width="1200" height="900"}
 
 ![Indian Chair](/images/IndianEbonyBone_chair.jpg){: width="1200" height="900"}
+
+![Lamp Base](/images/Lamp_test.jpg){: width="1200" height="900"}
+
+![Roccoco Mirror](/images/Rococo_Wall_Mirror.jpg){: width="1200" height="900"}
+
+![Trunk](/images/Trunk_modification.jpg){: width="1200" height="900"}
+
+![Antique Chairs](/images/Antique_Chairs.jpg){: width="1200" height="900"}
