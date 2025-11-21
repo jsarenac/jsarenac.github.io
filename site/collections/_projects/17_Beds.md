@@ -5,7 +5,7 @@ subtitle: 3D Models
 image: '/images/Panel Bed.jpg'
 ---
 
-3D  models of different home appliances for use by clients in interior design renders. 
+3D  models of different beds for use by clients in interior design renders. 
 
 ![Padua Bed](/images/Padua Leather Bed.jpg){: width="1200" height="900"}
 
