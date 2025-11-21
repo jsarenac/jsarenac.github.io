@@ -15,3 +15,6 @@ Chairs in various styles created for interior renders.
 
 ![Chair 5](/images/Chair_5.jpg){: width="1200" height="900"}
 
+![Chair 6](/images/Chair_6.jpg){: width="1200" height="900"}
+
+![Stools](/images/Stool_group.jpg){: width="1200" height="900"}
