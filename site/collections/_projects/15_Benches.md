@@ -11,3 +11,8 @@ A variety of bench models created for interior design visualisation.
 
 ![Leather Bench](/images/Leather Bench.jpg){: width="1200" height="900"}
 
+![Bench](/images/Bench2_3.jpg){: width="1200" height="900"}
+
+![Blade Ottoman](/images/Blade_Ottoman2.jpg){: width="1200" height="900"}
+
+![Thaddeus Bench](/images/Thaddeus Fabric Bench_2.jpg){: width="1200" height="900"}
