@@ -15,3 +15,6 @@ A variety of couch models created for interior design visualisation.
 
 ![Sofa2](/images/Sofa2.jpg){: width="1200" height="900"}
 
+![Sofa3](/images/Beige_Couch.jpg){: width="1200" height="900"}
+
+![Sofa4](/images/Landon_90_Sofa.jpg){: width="1200" height="900"}
