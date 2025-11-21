@@ -5,7 +5,7 @@ subtitle: 3D Models
 image: '/images/Plaster Decor.jpg'
 ---
 
-3D  models of different beds for use by clients in interior design renders. 
+3D  models of different artworks for use by clients in interior design renders. 
 
 ![Field Painting](/images/Field Painting.jpg){: width="1200" height="900"}
 
