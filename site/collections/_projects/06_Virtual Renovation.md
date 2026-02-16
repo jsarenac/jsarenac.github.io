@@ -1,5 +1,5 @@
 ---
-date: 2025-09-19
+date: 2025-07-19
 title: Virtual Renovation
 subtitle: 3D Models + Renders
 image: '/images/KnLjubice_01_small.jpg'
