@@ -1,5 +1,5 @@
 ---
-date: 2025-08-31
+date: 2025-06-31
 title: Bathroom Visual 
 subtitle: 3D Model + Render
 image: '/images/Bathroom_2b.jpg'
