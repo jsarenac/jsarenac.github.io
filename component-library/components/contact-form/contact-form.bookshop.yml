@@ -21,7 +21,7 @@ preview:
   form_title: Get in touch
   form_description: Feel free to ask about our work
   form_success_page: /
-  form_submission_email: 
+  form_submission_email: jovanswork@gmail.com 
   form_button_text: Send now
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
